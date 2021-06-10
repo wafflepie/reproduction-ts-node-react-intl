@@ -13,5 +13,5 @@ console.log(
   alwaysNull,
   connect,
   Subject,
-  FormattedMessage
+  FormattedMessage // If you remove this line, everything works.
 );
