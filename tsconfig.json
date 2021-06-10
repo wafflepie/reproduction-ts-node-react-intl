@@ -1,0 +1,11 @@
+{
+  "ts-node": {
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "module": "esnext",
+      "moduleResolution": "node"
+    },
+    "transpileOnly": true
+  }
+}
